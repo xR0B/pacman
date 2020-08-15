@@ -1,0 +1,36 @@
+body {
+  background: url('https://i.imgur.com/w7JQgzv.png')/*Wallpaper*/ center/cover fixed, #000
+  width: 342px;
+  margin: 0px auto;
+  font-family: sans-serif;
+  background: url('https://i.imgur.com/w7JQgzv.png')/*Wallpaper*/ center/cover fixed, #000
+}
+
+#pacman {
+  height: 470px;
+  width: 382px;
+  border-radius: 5px;
+  margin: 10px auto;
+}
+
+#shim {
+  font-family: 'Eight Track', sans-serif;
+  position: absolute;
+  visibility: hidden
+}
+
+h1 {
+  font-family: 'Eight Track', sans-serif;
+  text-align: center;
+  color: #eefc12;
+}
+
+footer {
+  -moz-border-radius: 12px;
+  -webkit-border-radius: 12px;
+  -ms-border-radius: 12px;
+  -khtml-border-radius: 12px;
+   text-align: center;
+   color:#89eaff;
+   font-size: 11px;
+}
